@@ -1,5 +1,7 @@
-# Hackthonjss
-TeamUp – Find Your Perfect Hackathon Team!
+#NavotthanaHackthonJss-2025
+TeamSync 
+
+Project: TeamUp – Find Your Perfect Hackathon Team!
 
 TeamUp is the ultimate platform for tech enthusiasts and professionals looking to collaborate and compete in hackathons. Whether you're a developer, designer, or innovator, TeamUp connects you with like-minded individuals to form the perfect team.
 
